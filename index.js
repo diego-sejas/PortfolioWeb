@@ -42,8 +42,8 @@ var typed = new Typed('#typed' , {
 
 var typed_2 = new Typed('#typed_2' , {
     strings: [
-        'a Full Stack .NET Developer',
-        'a Freelancer'
+        'a .NET C # Developer',
+        'a Java Springboot Developer'
     ],
     typeSpeed: 45,
     backSpeed: 45,
