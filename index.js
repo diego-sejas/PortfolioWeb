@@ -32,8 +32,8 @@ function toggle_onclick($win, $navbar, width){
 /*FUNCTION TYPED */
 var typed = new Typed('#typed' , {
     strings: [
-        'a .NET Developer Jr.',
-        'a Freelancer'
+        'Soy desarrollador Java || Springboot || API Rest ||  ',
+        'Est. Lic. Sistemas - UNLa'
     ],
     typeSpeed: 45,
     backSpeed: 45,
@@ -42,8 +42,8 @@ var typed = new Typed('#typed' , {
 
 var typed_2 = new Typed('#typed_2' , {
     strings: [
-        'a .NET C # Developer',
-        'a Java Springboot Developer'
+        'Desarrollador Java',
+        'con Springboot'
     ],
     typeSpeed: 45,
     backSpeed: 45,
