@@ -32,11 +32,11 @@ function toggle_onclick($win, $navbar, width){
 /*FUNCTION TYPED */
 var typed = new Typed('#typed' , {
     strings: [
-        'Desarrollador Back End Java | Springboot | API Rest ',
-        'Estudiante Lic. Sistemas - UNLa '
+        'Desarrollador Back End Java | Springboot | API Rest',
+        'Estudiante Lic. Sistemas - UNLa'
     ],
-    typeSpeed: 45,
-    backSpeed: 45,
+    typeSpeed: 50,
+    backSpeed: 50,
     loop: true, 
 });
 
@@ -45,8 +45,8 @@ var typed_2 = new Typed('#typed_2' , {
         'Desarrollador Java ',
         'con Springboot'
     ],
-    typeSpeed: 45,
-    backSpeed: 45,
+    typeSpeed: 50,
+    backSpeed: 50,
     loop: true
 });
 
