@@ -33,7 +33,7 @@ function toggle_onclick($win, $navbar, width){
 var typed = new Typed('#typed' , {
     strings: [
         'Desarrollador Back End Java | Springboot | API Rest ',
-        'Estudiante Lic. Sistemas - UNLa   '
+        'Estudiante Lic. Sistemas - UNLa '
     ],
     typeSpeed: 45,
     backSpeed: 45,
@@ -42,8 +42,8 @@ var typed = new Typed('#typed' , {
 
 var typed_2 = new Typed('#typed_2' , {
     strings: [
-        'Desarrollador Java   ',
-        '   con Springboot'
+        'Desarrollador Java ',
+        'con Springboot'
     ],
     typeSpeed: 45,
     backSpeed: 45,
